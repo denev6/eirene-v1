@@ -1,0 +1,28 @@
+node_modules
+
+# Output
+.output
+.vercel
+.netlify
+.wrangler
+.ruff_cache
+/.svelte-kit
+/build
+
+# OS
+.wslconfig
+.DS_Store
+.desktop.ini
+Thumbs.db
+*:Zone.Identifier
+
+# Local
+/.env
+!.env.example
+!.env.test
+.vscode
+.idea
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*

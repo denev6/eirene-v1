@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Config
+.idea
+.vscode
+.DS_Store
+
+# Private
+db/*/*.faiss
+db/*/*.pkl
+db/*/*.db
+
+# Virtual environments
+.venv
+
+# dummy data for testing
+dummy*

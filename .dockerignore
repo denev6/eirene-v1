@@ -1,0 +1,7 @@
+.wslconfig
+*:Zone.Identifier
+.gitignore
+.git
+/assets
+/chat
+/node_modules

@@ -13,18 +13,6 @@ In later versions,
 
 ![Architecture](/assets/architecture.png)
 
-<!--
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/faiss-0467DF?style=for-the-badge&logo=meta&logoColor=white">
-<img src="https://img.shields.io/badge/clovax-03C75A?style=for-the-badge&logo=naver&logoColor=white">
-<img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
-<img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
--->
-
 ## 🐋 Run
 
 ```sh
@@ -48,6 +36,8 @@ The API documentation is provided in [chat/README.md](/chat).
   year      = 2026,
 }
 ```
+
+Dev Log: [임종 결정 지원을 위한 AI 챗봇 개발기](https://denev6.github.io/posts/eirene)
 
 ### v2-3
 

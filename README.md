@@ -28,19 +28,29 @@ The API documentation is provided in [chat/README.md](/chat).
 ### v1
 
 ```bib
-@article{🔥forthcoming,
-  author    = {Park Sung-jin and Piao Huilin and Choi Seo-In and Oh Ha-young},
-  title     = {A Multi-Agent System for End-of-Life Decision Support in Terminal Cancer Care},
-  journal   = {Journal of the Korea Institute of Information and Communication Engineering},
-  publisher = {한국정보통신학회},
-  year      = 2026,
+@article{ART003300255,
+  author  = {Sung-Jin Park and Huilin Piao and Seo-In Choi and Ha-Young Oh},
+  title   = {A Multi-Agent System for End-of-Life Decision Support in Terminal Cancer Care},
+  journal = {Journal of the Korea Institute of Information and Communication Engineering},
+  year    = {2026},
+  volume  = {30},
+  number  = {1},
+  pages   = {179--186},
+  issn    = {2234-4772}
 }
 ```
 
 Dev Log: [임종 결정 지원을 위한 AI 챗봇 개발기](https://denev6.github.io/posts/eirene)
 
-### v2-3
+### v3
 
 ```bib
-@article{🤗Still under preparation. See you soon!}
+@article{🔥forthcoming,
+  author  = {Sung-Jin Park and Huilin Piao and Seo-In Choi and Jun-Bo Shim and Ha-Young Oh},
+  title   = {Constraint Optimization Modeling for End-of-Life Counseling Using Multi-Agent Systems},
+  journal = {Journal of the Korea Institute of Information and Communication Engineering},
+  year    = {2026},
+  volume  = {30},
+  number  = {2}
+}
 ```
